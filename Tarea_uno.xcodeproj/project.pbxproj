@@ -14,6 +14,14 @@
 		E80BBDA61CBE194F00D0F59B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E80BBDA41CBE194F00D0F59B /* LaunchScreen.storyboard */; };
 		E80BBDB11CBE195000D0F59B /* Tarea_unoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E80BBDB01CBE195000D0F59B /* Tarea_unoTests.swift */; };
 		E80BBDBC1CBE195000D0F59B /* Tarea_unoUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E80BBDBB1CBE195000D0F59B /* Tarea_unoUITests.swift */; };
+		E87531021CBF560F0011C722 /* 1208902_opt.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E87531011CBF560F0011C722 /* 1208902_opt.jpg */; };
+		E87531041CBF5C250011C722 /* Calvin_Harris_-_Motion_opt.png in Resources */ = {isa = PBXBuildFile; fileRef = E87531031CBF5C250011C722 /* Calvin_Harris_-_Motion_opt.png */; };
+		E87531061CBF5CB70011C722 /* 81iAXmZi7CL_opt.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E87531051CBF5CB70011C722 /* 81iAXmZi7CL_opt.jpg */; };
+		E87531081CBF5D360011C722 /* Drake_-_Hotline_Bling_opt.png in Resources */ = {isa = PBXBuildFile; fileRef = E87531071CBF5D360011C722 /* Drake_-_Hotline_Bling_opt.png */; };
+		E8FC97BA1CBF2002007035A5 /* calvin harris - blame.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E8FC97B61CBF2002007035A5 /* calvin harris - blame.mp3 */; };
+		E8FC97BB1CBF2002007035A5 /* Drake - Hotline Bling.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E8FC97B71CBF2002007035A5 /* Drake - Hotline Bling.mp3 */; };
+		E8FC97BC1CBF2002007035A5 /* ed-sheeran-thinking-out-loud.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E8FC97B81CBF2002007035A5 /* ed-sheeran-thinking-out-loud.mp3 */; };
+		E8FC97BD1CBF2002007035A5 /* hotel-california-the-eagles.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E8FC97B91CBF2002007035A5 /* hotel-california-the-eagles.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +55,14 @@
 		E80BBDB71CBE195000D0F59B /* Tarea_unoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Tarea_unoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E80BBDBB1CBE195000D0F59B /* Tarea_unoUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tarea_unoUITests.swift; sourceTree = "<group>"; };
 		E80BBDBD1CBE195000D0F59B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E87531011CBF560F0011C722 /* 1208902_opt.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 1208902_opt.jpg; sourceTree = "<group>"; };
+		E87531031CBF5C250011C722 /* Calvin_Harris_-_Motion_opt.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Calvin_Harris_-_Motion_opt.png"; sourceTree = "<group>"; };
+		E87531051CBF5CB70011C722 /* 81iAXmZi7CL_opt.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 81iAXmZi7CL_opt.jpg; sourceTree = "<group>"; };
+		E87531071CBF5D360011C722 /* Drake_-_Hotline_Bling_opt.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Drake_-_Hotline_Bling_opt.png"; sourceTree = "<group>"; };
+		E8FC97B61CBF2002007035A5 /* calvin harris - blame.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "calvin harris - blame.mp3"; sourceTree = "<group>"; };
+		E8FC97B71CBF2002007035A5 /* Drake - Hotline Bling.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Drake - Hotline Bling.mp3"; sourceTree = "<group>"; };
+		E8FC97B81CBF2002007035A5 /* ed-sheeran-thinking-out-loud.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "ed-sheeran-thinking-out-loud.mp3"; sourceTree = "<group>"; };
+		E8FC97B91CBF2002007035A5 /* hotel-california-the-eagles.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "hotel-california-the-eagles.mp3"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +113,14 @@
 		E80BBD9A1CBE194F00D0F59B /* Tarea_uno */ = {
 			isa = PBXGroup;
 			children = (
+				E87531031CBF5C250011C722 /* Calvin_Harris_-_Motion_opt.png */,
+				E87531051CBF5CB70011C722 /* 81iAXmZi7CL_opt.jpg */,
+				E87531071CBF5D360011C722 /* Drake_-_Hotline_Bling_opt.png */,
+				E87531011CBF560F0011C722 /* 1208902_opt.jpg */,
+				E8FC97B61CBF2002007035A5 /* calvin harris - blame.mp3 */,
+				E8FC97B71CBF2002007035A5 /* Drake - Hotline Bling.mp3 */,
+				E8FC97B81CBF2002007035A5 /* ed-sheeran-thinking-out-loud.mp3 */,
+				E8FC97B91CBF2002007035A5 /* hotel-california-the-eagles.mp3 */,
 				E80BBD9B1CBE194F00D0F59B /* AppDelegate.swift */,
 				E80BBD9D1CBE194F00D0F59B /* ViewController.swift */,
 				E80BBD9F1CBE194F00D0F59B /* Main.storyboard */,
@@ -232,9 +256,17 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E8FC97BC1CBF2002007035A5 /* ed-sheeran-thinking-out-loud.mp3 in Resources */,
+				E87531081CBF5D360011C722 /* Drake_-_Hotline_Bling_opt.png in Resources */,
+				E87531041CBF5C250011C722 /* Calvin_Harris_-_Motion_opt.png in Resources */,
 				E80BBDA61CBE194F00D0F59B /* LaunchScreen.storyboard in Resources */,
+				E8FC97BB1CBF2002007035A5 /* Drake - Hotline Bling.mp3 in Resources */,
 				E80BBDA31CBE194F00D0F59B /* Assets.xcassets in Resources */,
+				E8FC97BD1CBF2002007035A5 /* hotel-california-the-eagles.mp3 in Resources */,
 				E80BBDA11CBE194F00D0F59B /* Main.storyboard in Resources */,
+				E87531061CBF5CB70011C722 /* 81iAXmZi7CL_opt.jpg in Resources */,
+				E87531021CBF560F0011C722 /* 1208902_opt.jpg in Resources */,
+				E8FC97BA1CBF2002007035A5 /* calvin harris - blame.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -487,6 +519,7 @@
 				E80BBDC21CBE195000D0F59B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		E80BBDC31CBE195000D0F59B /* Build configuration list for PBXNativeTarget "Tarea_unoTests" */ = {
 			isa = XCConfigurationList;
@@ -495,6 +528,7 @@
 				E80BBDC51CBE195000D0F59B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		E80BBDC61CBE195000D0F59B /* Build configuration list for PBXNativeTarget "Tarea_unoUITests" */ = {
 			isa = XCConfigurationList;
@@ -503,6 +537,7 @@
 				E80BBDC81CBE195000D0F59B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
